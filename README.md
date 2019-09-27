@@ -5,7 +5,7 @@
 
 - The folder raw_data contains the raw eeg data files (*.edf) that were recorded with a pinnacle technologies EEG system (www.pinnaclet.com). Those files correspond to the PTZ-induced period for each animal. The files can be opened in matlab.
 
-matlab scripts that were used to process the erp data:
+matlab scripts that were used to process the eeg data:
 1. concatenate_files_HCS_06_2019
 2. RMS_amplitude_analysis_HCS_06_2019*
 3. SE_detection_HCS_07_2019
